@@ -1,12 +1,17 @@
-# React + Vite
+# EpiBook - Book genres library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+Responsive homepage created with React and Bootstrap, which displays a library of books, and can be filtered according to the genre. It is possible to explore each book page, and read live comments about the single books. The book's information come from APIs, and the interface is built entirey in React, and styled with Bootstrap. Built during the Epicode Web Development course.
 
-Currently, two official plugins are available:
+## Used technologies:
+- HTML5
+- CSS3
+- React.js
+- JavaScript
+- Bootstrap
+- API calls and integration
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## How to access to the project:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Valeco96/React-EpiBook-BookGallery
